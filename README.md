@@ -1,10 +1,10 @@
-# 📦 Automatizacion de pedidos con n8n
+#  Automatizacion de pedidos con n8n
 
 Trabajo universitario grupal de un flujo automatizado para el procesamiento de pedidos mediante formulario web, con formateo en Python, almacenamiento en base de datos y notificación por correo electrónico.
 
 ---
 
-## 🚀 Descripción
+##  Descripción
 
 Este proyecto automatiza el ciclo de vida de un pedido desde su recepción hasta la notificación al usuario, integrando las siguientes etapas:
 
