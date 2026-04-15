@@ -19,14 +19,15 @@ Este proyecto automatiza el ciclo de vida de un pedido desde su recepción hasta
 
 Interfaz de entrada de datos del cliente.
 
-![Formulario de pedidos](./assets/formulario.png)
+<img src="./assets/formulario.png" width="300" alt="Formulario de pedidos">
 
 
 ### Base de Datos
 
 Los pedidos formateados se insertan mediante el nodo de PostgreSQL.
 
-![Base de datos](./assets/base-datos.png)
+<img src="./assets/base-datos.png" width="600" alt="Base de datos">
+
 
 ---
 
@@ -34,7 +35,7 @@ Los pedidos formateados se insertan mediante el nodo de PostgreSQL.
 
 El nodo **Gmail** envía una confirmación automática al cliente con el resumen del pedido.
 
-![Base de datos](./assets/gmail.png)
+<img src="./assets/gmail.png" width="600" alt="Gmail">
 
 ---
 
